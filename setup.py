@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyimgcook",
-    version="0.0.1",
+    version="0.0.1a1",
     author="ibegyourpardon",
     author_email="yiziyint@gmail.com",
     description="图像处理函数集",
